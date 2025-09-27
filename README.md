@@ -68,7 +68,7 @@ Mukul-Store-Excel-Analysis/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/Mukul-Store-Excel-Analysis.git
+   git clone https://github.com/MukulSSrank/Mukul-Store-Excel-Analysis.git
    ```
 2. Open the file **`Mukul Strore Analysis.xlsx`** in Microsoft Excel.
 3. Use slicers to filter by **Month, Channel, and Category**.
@@ -78,6 +78,4 @@ Mukul-Store-Excel-Analysis/
 ## 🙌 Author
 
 👤 **Mukul Latwal**
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
 ⭐ *If you found this project insightful, don’t forget to star the repo!* ⭐
