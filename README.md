@@ -1,6 +1,7 @@
 # 🛍️ Mukul Store Annual Report 2022
 
-![Dashboard Screenshot](images/Mukul_Store_Report.png)
+![Dashboard Screenshot](Mukul_Store_Dashboard.png)
+
 
 This project presents an **interactive Excel dashboard** for analyzing sales and order trends of Mukul Store in the year 2022. It highlights performance across states, sales channels, customer demographics, and order status.
 
